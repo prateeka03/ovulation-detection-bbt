@@ -9,7 +9,7 @@ This project simulates basal body temperature (BBT) patterns based on hormonal c
 
 ## Methods
 
-- Converted cycle data into daily time-series format  
+- Converted cycle data into day by day format  
 - Simulated temperature changes based on ovulation  
 - Built a detection method using temperature trends  
 - Added a confidence score to evaluate signal strength
