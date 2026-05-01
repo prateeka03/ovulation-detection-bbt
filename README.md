@@ -1,7 +1,7 @@
 # ovulation-detection-bbt
 Detecting ovulation using simulated basal body temperature data
 ## Example Visualization
-
+Example simulated BBT patterns showing a clear temperature shift in ovulatory cycles compared to anovulatory cycles.
 ![Ovulatory vs Anovulatory](ovulatory_vs_anovulatory.png)
 ## Overview
 
