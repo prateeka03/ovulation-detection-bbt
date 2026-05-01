@@ -13,3 +13,7 @@ This project simulates basal body temperature (BBT) patterns based on hormonal c
 - Simulated temperature changes based on ovulation  
 - Built a detection method using temperature trends  
 - Added a confidence score to evaluate signal strength
+  
+## Data Source
+
+Fertility & Menstrual Health Dataset (Kaggle)
